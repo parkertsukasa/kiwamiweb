@@ -1,7 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 .container{
   width: 600px;
   mergin: auto;
 }
+
+img{
+  float: left;
+  merginright: 10px;
+}
+
+h1{
+  float: left;
+  float-size: 15px;
+  width: 350px;
+  margin-bottom: 5px;
+}
+
+p{
+  float: left;
+  font-size: 12px;
+  width: 350px;
+  margin-bottom: 5px;
+}
+
 a{
   background: #f9f9f9;
   color: #ff4c4c;
