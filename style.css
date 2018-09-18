@@ -18,15 +18,15 @@ h1{
   float: left;
   float-size: 15px;
   width: 350px;
-  margin-left: 200px;
+  margin-left: 300px;
   margin-bottom: 5px;
 }
 
 p{
   float: left;
   font-size: 12px;
-  width: 350px;
-  margin-left: 200px;
+  width: 640px;
+  margin-left: 300px;
   margin-bottom: 5px;
 }
 
@@ -38,7 +38,7 @@ a{
   padding: 8px;
   text-decoration: none;
   border-radius: 8px;
-  margin-left: 200px;
+  margin-left: 300px;
 }
 a:hover{
   background: #ff4c4c;
