@@ -1,3 +1,7 @@
+.container{
+  width: 600px;
+  mergin: auto;
+}
 a{
   background: #f9f9f9;
   color: #ff4c4c;
